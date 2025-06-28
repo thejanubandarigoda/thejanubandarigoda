@@ -22,11 +22,16 @@
 
 ## 🛠️ Skills
 
-| Frontend            | Backend           | DevOps              | Design                |
+| Frontend            | Backend           | DevOps              | Design / UI‑UX        |
 | ------------------- | ----------------- | ------------------- | --------------------- |
 | ![React][react]     | ![Node.js][node]  | ![Docker][docker]   | ![Figma][figma]       |
 | ![Vue][vue]         | ![Express][express]| ![Kubernetes][k8s] | ![Adobe XD][adobexd]  |
 | ![HTML5][html5]     | ![Python][python] | ![AWS][aws]         | ![Illustrator][ai]    |
+|                     |                   |                     | ![UX Design][ux]       |
+|                     |                   |                     | ![UI Design][ui]       |
+
+[ux]: https://img.shields.io/badge/UX-Design-purple?style=for-the-badge&logo=adobe-illustrator&logoColor=white
+[ui]: https://img.shields.io/badge/UI-Design-blue?style=for-the-badge&logo=adobe-xd&logoColor=white
 
 ## 📈 GitHub Stats
 
