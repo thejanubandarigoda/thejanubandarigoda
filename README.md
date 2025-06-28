@@ -12,7 +12,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Project Name** ([link]([https://github.com/yourusername/project](https://github.com/thejanubandarigoda)))
+- 🔭 I’m currently working on **CodeMedia** ([link]([https://github.com/yourusername/project](https://github.com/thejanubandarigoda)))
 - 🌱 I’m learning **Technology/Topic**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Topic/Area**
