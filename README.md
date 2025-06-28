@@ -30,17 +30,18 @@
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Thejanu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=thejanubandarigoda&show_icons=true&theme=radical)](https://github.com/thejanubandarigoda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejanubandarigoda&layout=compact&theme=radical)](https://github.com/thejanubandarigoda)
 
 
-## 📂 Featured Projects
 
-| Name                        | Description                                     | Link                                         |
-| --------------------------- | ----------------------------------------------- | -------------------------------------------- |
-| **Project One**             | Brief one‑line of what it does                   | [GitHub]([https://github.com/yourusername/one](https://github.com/thejanubandarigoda)) |
-| **Project Two**             | Brief one‑line of what it does                   | [GitHub]([https://github.com/yourusername/two](https://github.com/thejanubandarigoda)) |
-| **Project Three**           | Brief one‑line of what it does                   | [GitHub]([https://github.com/yourusername/three](https://github.com/thejanubandarigoda)) |
+## 📂 Featured Projects
+| Name             | Description                       | Link                                                      |
+| ---------------- | --------------------------------- | --------------------------------------------------------- |
+| **Project One**  | Brief one‑line of what it does    | [GitHub](https://github.com/thejanubandarigoda/one)       |
+| **Project Two**  | Brief one‑line of what it does    | [GitHub](https://github.com/thejanubandarigoda/two)       |
+| **Project Three**| Brief one‑line of what it does    | [GitHub](https://github.com/thejanubandarigoda/three)     |
+
 
 ---
 
