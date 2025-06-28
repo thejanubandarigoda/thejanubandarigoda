@@ -12,13 +12,14 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **CodeMedia** ([link]([https://github.com/yourusername/project](https://github.com/thejanubandarigoda)))
-- 🌱 I’m learning **Technology/Topic**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Topic/Area**
-- 💬 Ask me about **Your Expertise**
-- 📫 How to reach me: [Email](dileepabandarigoda@gmail.com) | [LinkedIn]([https://linkedin.com/in/yourprofile](https://lk.linkedin.com/in/thejanu-dileepa-bandarigoda))
-- ⚡ Fun fact: **One fun/random fact about you**
+- 🔭 I’m currently working on **CodeMedia** ([GitHub repo](https://github.com/thejanubandarigoda/project))
+- 🌱 I’m deepening my expertise in **React**, **TypeScript**, and **Figma**
+- 👯 I’m open to collaborating on **open-source UI/UX tools** and **creative coding libraries**
+- 🤝 I’m currently exploring **advanced CSS animations** and **accessibility best practices**
+- 💬 Ask me about **web performance**, **responsive design**, or **video editing workflows**
+- 📫 Reach out via [Email](mailto:dileepabandarigoda@gmail.com) or [LinkedIn](https://lk.linkedin.com/in/thejanu-dileepa-bandarigoda)
+- 🎮 Fun fact: I hand-craft origami models inspired by my favorite game maps
+
 
 ## 🛠️ Skills
 
