@@ -12,7 +12,7 @@
 - 👯 I’m open to collaborating on **open-source UI/UX tools** and **creative coding libraries**
 - 🤝 I’m currently exploring **advanced CSS animations** and **accessibility best practices**
 - 💬 Ask me about **web performance**, **responsive design**, or **video editing workflows**
-- 📫 Reach out via [Email](mailto:dileepabandarigoda@gmail.com) or [LinkedIn](https://lk.linkedin.com/in/thejanu-dileepa-bandarigoda)
+- 📫 Reach out via [Email](mailto:dileepabandarigoda@gmail.com) or [LinkedIn](https://lk.linkedin.com/in/thejanu-dileepa-bandarigoda-72a0b5246)
 - 🎮 Fun fact: I hand-craft origami models inspired by my favorite game maps
 
 ---
